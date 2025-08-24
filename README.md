@@ -16,7 +16,7 @@ text changes to "Done"
 # Exercise 2
 Inside App.jsx create and export a component named 'ShowText' containing textfield and h3 element. Each time inputting a character in the textfield, the result text is updated into h3 element.
 
-# Exercise 2
+# Exercise 3
 Inside App.jsx create and export a component named 'Welcome' containing textfield and button. When user inputs a name, pressing the button shows a h3 header containing text "Welcome name!" (the name being the input like 'Welcome John!')
 The header is not in the UI until the button is pressed (conditional rendering)
 You need two states: text for textfield and e.g. boolean for showing the h3 element.
